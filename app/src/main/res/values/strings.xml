@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HBOred</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="error_message">Ha ocurrido un error</string>
+    <string name="movie_bundle">movie</string>
+
+
+    <array name="order_by_spinner_array">
+        <item> Popularity </item>
+        <item> Highest rated </item>
+        <item> Recently added </item>
+        <item> Title (A-Z)</item>
+        <item> Title (Z-A)</item>
+    </array>
+</resources>
